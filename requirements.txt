@@ -1,0 +1,21 @@
+# SupplyChain AI – Python Dependencies
+# Install: python -m pip install -r requirements.txt
+# ---------------------------------------------------
+
+# Core data engineering
+pandas>=2.1
+numpy>=1.26
+
+# Visualization
+streamlit>=1.30
+plotly>=5.18
+
+# Database
+# (sqlite3 is built into Python — no pip install needed)
+
+# Testing
+pytest>=7.4
+
+# Utilities (used starting Phase 2+)
+pyyaml>=6.0
+python-dotenv>=1.0
